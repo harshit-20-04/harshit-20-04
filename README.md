@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Harshit Sharma
 
 🚀 **Software Developer | DSA Enthusiast | Full-Stack Learner**
