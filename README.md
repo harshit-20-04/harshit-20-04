@@ -34,17 +34,6 @@ I’m a passionate developer focused on building scalable applications and stren
 
 ---
 
-## 📌 Projects
-
-### 🔹 Full-Stack Listing Platform
-- Authentication & Authorization
-- Add / Edit / Delete Listings
-- Reviews with Star Ratings ⭐
-- Image Uploads
-- Input Validation using **Joi**
-- Centralized Error Handling & Custom Error Pages
-
-
 ---
 
 ## 📚 What I’m Currently Learning
