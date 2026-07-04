@@ -106,7 +106,7 @@ Final-year Computer Science student passionate about building intelligent applic
 
 ## 😊 Mood-Bot
 
-Emotion-aware conversational chatbot capable of adapting responses based on user sentiment.
+> Emotion-aware conversational chatbot capable of adapting responses based on user sentiment.
 
 **Tech**
 
@@ -123,7 +123,7 @@ Emotion-aware conversational chatbot capable of adapting responses based on user
 
 ## ✨ AI Quote Generator
 
-Deep Learning project that generates original quotes using LSTM.
+> Deep Learning project that generates original quotes using LSTM.
 
 **Tech**
 
@@ -145,7 +145,7 @@ Deep Learning project that generates original quotes using LSTM.
 
 ## 🎥 Video Meet
 
-Real-time video conferencing platform.
+> Real-time video conferencing platform.
 
 **Tech**
 
@@ -165,7 +165,7 @@ Real-time video conferencing platform.
 
 ## 📈 Quantara
 
-Full Stack Stock Trading Platform.
+> Full Stack Stock Trading Platform.
 
 **Tech**
 
