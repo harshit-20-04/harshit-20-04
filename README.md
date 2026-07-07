@@ -94,6 +94,13 @@ Final-year Computer Science student passionate about building intelligent applic
 
 `Python` • `Flask` • `Groq Whisper` • `Mistral AI` • `LangChain` • `ChromaDB` • `JavaScript` • `HTML` • `CSS`
 
+### Features
+
+- Video/Audio Transcript
+- Semantic Search
+- Vector Database
+- Local LLM Pipeline
+
 ---
 ## 📄 DocMind — AI PDF Chat Assistant
 
