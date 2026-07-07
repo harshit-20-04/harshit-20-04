@@ -86,6 +86,15 @@ Final-year Computer Science student passionate about building intelligent applic
 
 # Featured Projects
 
+## 📹 Transcript Console – Video/Audio RAG Knowledge Base
+
+ > Turn any video/audio (URL or local file) into a searchable knowledge base — Groq Whisper transcription, Mistral-powered summaries & action items, and a RAG chatbot over the transcript.
+
+**Tech**
+
+`Python` • `Flask` • `Groq Whisper` • `Mistral AI` • `LangChain` • `ChromaDB` • `JavaScript` • `HTML` • `CSS`
+
+---
 ## 📄 DocMind — AI PDF Chat Assistant
 
 > Privacy-first RAG application that allows users to chat with PDF documents using semantic search.
@@ -127,13 +136,7 @@ Final-year Computer Science student passionate about building intelligent applic
 
 **Tech**
 
-`TensorFlow`
-
-`LSTM`
-
-`NLP`
-
-`Streamlit`
+`TensorFlow` • `LSTM` • `NLP` • `Streamlit`
 
 ### Features
 
@@ -149,11 +152,7 @@ Final-year Computer Science student passionate about building intelligent applic
 
 **Tech**
 
-`React`
-
-`Node.js`
-
-`WebRTC`
+`React` • `Node.js` • `WebRTC`
 
 ### Features
 
@@ -161,24 +160,6 @@ Final-year Computer Science student passionate about building intelligent applic
 - Audio Calling
 - Peer-to-Peer Communication
 
----
-
-## 📈 Quantara
-
-> Full Stack Stock Trading Platform.
-
-**Tech**
-
-React • Node.js • Express • MongoDB • REST APIs
-
-### Features
-
-- Portfolio Tracking
-- Watchlists
-- Live Charts
-- Buy/Sell Stocks
-
----
 
 # Certifications
 
